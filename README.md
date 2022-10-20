@@ -1,0 +1,11 @@
+## Reinvestigating the Gene Expression in the Diagnostic Evaluation of Smokers with Suspect Lung Cancer
+
+#Author
+Lappui Chung, Sicheng Yang, Xi Chen
+
+#Description
+Using decision tree to find new genes that may cause lung cancer
+
+This is a team project that intent to find new genes which may cause lung cancer.
+
+Project Data: https://drive.google.com/file/d/1wFBEdwWbTseb6_hrkJAJe9gcxBLZvV9C/view?usp=sharing
